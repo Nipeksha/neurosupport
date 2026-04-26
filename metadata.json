@@ -1,0 +1,9 @@
+{
+  "name": "NeuroSupport AI",
+  "description": "An adaptive, AI-enhanced learning and support system for users with dyslexia and autism, featuring handwriting analysis, personalized therapy avatars, and cognitive games.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
